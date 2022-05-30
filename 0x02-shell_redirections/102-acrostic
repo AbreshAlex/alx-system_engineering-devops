@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1-3 < An\ Acrostic
+cut -c 1 < An\ Acrostic
